@@ -1,0 +1,20 @@
+# Project-specific ignores
+Flipkart project.pptx
+Customer_support_data.csv
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project artifacts
+best_model.pkl
