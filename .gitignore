@@ -1,14 +1,8 @@
 # Notebooks and Data
-EDA.ipynb
-ML.ipynb
 Customer_support_data.csv
-best_model.pkl
 
 # Business Documents
 Flipkart project.pptx
-
-# Scripts and Artifacts
-logistic_model_def.py
 
 # Python environment
 __pycache__/
